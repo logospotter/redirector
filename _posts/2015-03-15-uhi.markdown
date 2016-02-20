@@ -1,0 +1,15 @@
+---
+layout: redirected
+title: "University of the Highland and Islands"
+date: 2015-03-15
+published: true
+
+tags:
+- scottish
+- purple
+
+wiki: University_of_the_Highlands_and_Islands
+website: www.uhi.ac.uk
+image: uhi.gif
+
+---

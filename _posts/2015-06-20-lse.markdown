@@ -1,0 +1,16 @@
+---
+layout: redirected
+title: "London School of Economics"
+date: 2015-06-20
+published: true
+
+tags:
+- london
+- russell-group
+- red
+
+wiki: London_School_of_Economics
+website: www.lse.ac.uk
+image: lse.gif
+
+---

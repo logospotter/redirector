@@ -1,0 +1,16 @@
+---
+layout: redirected
+title: "Middlesex University"
+date: 2015-06-20
+published: true
+
+tags:
+- southeast
+- red
+- shield
+
+wiki: Middlesex_University
+website: www.mdx.ac.uk
+image: mdx.gif
+
+---

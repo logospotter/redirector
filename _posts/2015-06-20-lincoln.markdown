@@ -1,0 +1,23 @@
+---
+layout: redirected
+title: "University of Lincoln"
+date: 2015-06-20
+published: true
+
+tags:
+- eastmidlands
+- crest
+- mono
+- ua
+- animal
+
+wiki: University_of_Lincoln
+website: www.lincoln.ac.uk
+image: lincoln.gif
+brand: http://www.lincoln.ac.uk/home/abouttheuniversity/press/identity/
+
+
+---
+
+[Coverage about the changed logo](http://thelincolnite.co.uk/2012/07/university-of-lincoln-swaps-minerva-logo-for-swans/
+)

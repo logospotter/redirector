@@ -1,0 +1,17 @@
+---
+layout: redirected
+title: "Glyndwr University"
+date: 2015-06-20
+published: true
+
+tags:
+- welsh
+- mono
+- typographic
+
+wiki: Glyndŵr_University
+website: www.glyndwr.ac.uk
+image: glyndwr.gif
+brand: https://glynfo.glyndwr.ac.uk/file.php/33/Procedures_and_Guidelines/Glyndwr_Brand_Guidlines_GUMBC1011006_V1_.pdf
+
+---

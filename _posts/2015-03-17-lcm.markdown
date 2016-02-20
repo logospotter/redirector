@@ -1,0 +1,20 @@
+---
+layout: redirected
+title: "Leeds College of Music"
+date: 2015-03-17
+published: true
+
+tags:
+- english
+- yorks
+- yorkshumber
+- abstract
+
+
+wiki: Leeds_College_of_Music
+website: www.lcm.ac.uk
+image: lcm.gif
+
+---
+
+[Sound Signature](http://www.lcm.ac.uk/About-Us/Sound-Signature)

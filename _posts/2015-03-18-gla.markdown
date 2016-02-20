@@ -1,0 +1,18 @@
+---
+layout: redirected
+title: "University of Glasgow"
+date: 2015-03-18
+published: true
+
+tags:
+- scottish
+- russell-group
+- shield
+- blue
+
+wiki: University_of_Glasgow
+website: www.gla.ac.uk
+image: gla.gif
+brand: http://www.gla.ac.uk/staff/brandguidelines/
+
+---

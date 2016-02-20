@@ -1,0 +1,18 @@
+---
+layout: redirected
+title: "London School of Hygiene & Tropical Medicine"
+date: 2015-06-20
+published: true
+
+tags:
+- london
+- uppercase
+- mono
+- animal
+
+wiki: London_School_of_Hygiene_%26_Tropical_Medicine
+website: www.lshtm.ac.uk
+image: lshtm.gif
+brand: http://www.lshtm.ac.uk/aboutus/governanceandorganisation/aas/extrel/style_guide_august_2013___web.pdf
+
+---

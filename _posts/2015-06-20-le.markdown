@@ -1,0 +1,17 @@
+---
+layout: redirected
+title: "University of Leicester"
+date: 2015-06-20
+published: true
+
+tags:
+- eastmidlands
+- shield
+- m5
+
+wiki: University_of_Leicester
+website: www.le.ac.uk
+image: le.gif
+
+
+---

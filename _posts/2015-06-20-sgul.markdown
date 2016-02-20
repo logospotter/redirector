@@ -1,0 +1,17 @@
+---
+layout: redirected
+title: "St George's, University of London"
+date: 2015-06-20
+published: true
+
+tags:
+- london
+- blue
+- animal
+
+wiki: St_George's,_University_of_London
+website: www.sgul.ac.uk
+image: sgul.gif
+
+
+---

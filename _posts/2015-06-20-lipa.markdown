@@ -1,0 +1,15 @@
+---
+layout: redirected
+title: "Liverpool Institute for Performing Arts"
+date: 2015-06-20
+published: true
+
+tags:
+- northwest
+- typographic
+
+wiki: Liverpool_Institute_for_Performing_Arts
+website: www.lipa.ac.uk
+image: lipa.gif
+
+---

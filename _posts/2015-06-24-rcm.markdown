@@ -1,0 +1,17 @@
+---
+layout: redirected
+title: "Royal College of Music"
+date: 2015-06-20
+published: true
+
+tags:
+- london
+- red
+- crest
+- uppercase
+
+wiki: Royal_College_of_Music
+website: www.rcm.ac.uk
+image: rcm.gif
+
+---

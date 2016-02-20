@@ -1,0 +1,15 @@
+---
+layout: redirected
+title: "Teesside University"
+date: 2015-06-20
+published: true
+
+tags:
+- northeast
+- ua
+
+wiki: Teesside_University
+website: www.tees.ac.uk
+image: tees.gif
+
+---

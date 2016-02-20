@@ -1,0 +1,16 @@
+---
+layout: redirected
+title: "University of Portsmouth"
+date: 2015-06-20
+published: true
+
+tags:
+- southwest
+- ua
+- purple
+
+wiki: University_of_Portsmouth
+website: www.port.ac.uk
+image: port.gif
+brand: http://www.port.ac.uk/departments/services/marketingandcommunications/corporateidentity/
+---

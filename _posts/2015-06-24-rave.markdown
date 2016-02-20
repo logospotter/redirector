@@ -1,0 +1,15 @@
+---
+layout: redirected
+title: "Ravensbourne college"
+date: 2015-06-20
+published: true
+
+tags:
+- london
+- abstract
+
+wiki: Ravensbourne_(college)
+website: www.rave.ac.uk
+image: rave.gif
+
+---

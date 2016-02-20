@@ -1,0 +1,19 @@
+---
+layout: redirected
+title: "Royal Central School of Speech and Drama"
+date: 2015-06-20
+published: true
+
+tags:
+- london
+- typographic
+- mono
+- uppercase
+
+wiki: Central_School_of_Speech_and_Drama
+website: www.cssd.ac.uk
+image: cssd.gif
+
+---
+
+[A post about the identity](http://www.mattwilley.co.uk/Central-School-of-Speech-Drama-Identity)

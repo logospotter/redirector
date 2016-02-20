@@ -1,0 +1,16 @@
+---
+layout: redirected
+title: "Queen Margaret Universty, Edinburgh"
+date: 2015-06-20
+published: true
+
+tags:
+- scottish
+- blue
+- shield
+
+wiki: Queen_Margaret_University
+website: www.qmu.ac.uk
+image: qmu.gif
+
+---

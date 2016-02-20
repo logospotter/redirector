@@ -1,0 +1,17 @@
+---
+layout: redirected
+title: "Royal Welsh College of Music and Drama"
+date: 2015-06-20
+published: true
+
+tags:
+- wales
+- typographic
+- uppercase
+- sansserif
+
+wiki: Royal_Welsh_College_of_Music_%26_Drama
+website: www.rwcmd.ac.uk
+image: rwcmd.gif
+
+---

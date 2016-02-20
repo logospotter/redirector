@@ -1,0 +1,17 @@
+---
+layout: redirected
+title: "Liverpool John Moores University"
+date: 2015-06-20
+published: true
+
+tags:
+- northwest
+- blue
+- ua
+- animal
+
+wiki: Liverpool_John_Moores_University
+website: www.ljmu.ac.uk
+image: ljmu.gif
+
+---

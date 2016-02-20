@@ -1,0 +1,18 @@
+---
+layout: redirected
+title: "Institue of Cancer Research"
+date: 2015-03-17
+published: true
+
+tags:
+- london
+- grey
+- typographic
+
+wiki: Institute_of_Cancer_Research
+website: www.icr.ac.uk
+image: icr.gif
+
+---
+
+[Under Consideration](http://www.underconsideration.com/brandnew/archives/institute_of_cancer_research.php#.VQhj-BCsXYE)

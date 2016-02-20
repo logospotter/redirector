@@ -1,0 +1,16 @@
+---
+layout: redirected
+title: "University Campus Suffolk"
+date: 2015-06-20
+published: true
+
+tags:
+- east
+- blue
+- abstract
+
+wiki: University_Campus_Suffolk
+website: www.ucs.ac.uk
+image: ucs.gif
+brand: http://www.ucs.ac.uk/About/RecentPublications/Archive/UCS-Brand-Guidelines.pdf
+---

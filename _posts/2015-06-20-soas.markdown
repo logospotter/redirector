@@ -1,0 +1,17 @@
+---
+layout: redirected
+title: "SOAS, University of London"
+date: 2015-06-20
+published: true
+
+tags:
+- london
+- yellow
+- uppercase
+- sansserif
+
+wiki: SOAS,_University_of_London
+website: www.soas.ac.uk
+image: soas.gif
+
+---

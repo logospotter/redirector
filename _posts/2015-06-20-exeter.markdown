@@ -1,0 +1,19 @@
+---
+layout: redirected
+title: "University of Exeter"
+date: 2015-06-20
+published: true
+
+tags:
+- southwest
+- russell-group
+- blue
+- gw4
+- typographic
+
+wiki: University_of_Exeter
+website: www.exeter.ac.uk
+image: exeter.gif
+brand: http://www.exeter.ac.uk/designstudio/visualidentity/
+
+---

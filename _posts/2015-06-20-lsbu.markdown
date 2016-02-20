@@ -1,0 +1,18 @@
+---
+layout: redirected
+title: "London South Bank University"
+date: 2015-06-20
+published: true
+
+tags:
+- london
+- serif
+- mono
+- modern
+- typographic
+
+wiki: London_South_Bank_University
+website: www.lsbu.ac.uk
+image: lsbu.gif
+
+---

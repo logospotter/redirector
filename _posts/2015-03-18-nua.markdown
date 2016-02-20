@@ -1,0 +1,19 @@
+---
+layout: redirected
+title: "Norwich University of the Arts"
+date: 2015-03-18
+published: true
+
+tags:
+- english
+- typographic
+- east
+- mono
+
+wiki: Norwich_University_of_the_Arts
+website: www.nua.ac.uk
+image: nua.gif
+
+---
+
+[Design agency](http://www.hat-trickdesign.co.uk/projects/Norwich(2).pdf)

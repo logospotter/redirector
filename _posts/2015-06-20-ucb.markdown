@@ -1,0 +1,16 @@
+---
+layout: redirected
+title: "University College Birmingham"
+date: 2015-06-20
+published: true
+
+tags:
+- westmidlands
+- crest
+- blue
+
+wiki: University_College_Birmingham
+website: www.ucb.ac.uk
+image: ucb.gif
+
+---

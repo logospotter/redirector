@@ -1,0 +1,17 @@
+---
+layout: redirected
+title: "Heythrop College, University of London"
+date: 2015-06-20
+published: true
+
+tags:
+- crest
+- shield
+- london
+- ccuc
+
+wiki: Heythrop_College,_University_of_London
+website: www.heythrop.ac.uk
+image: heythrop.gif
+
+---

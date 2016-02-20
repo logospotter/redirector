@@ -1,0 +1,17 @@
+---
+layout: redirected
+title: "Nottingham Trent University"
+date: 2015-06-20
+published: true
+
+tags:
+- eastmidlands
+- shield
+- blue
+- ua
+
+wiki: Nottingham_Trent_University
+website: www.ntu.ac.uk
+image: ntu.gif
+
+---

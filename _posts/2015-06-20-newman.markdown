@@ -1,0 +1,16 @@
+---
+layout: redirected
+title: "Newman University, Birmingham"
+date: 2015-06-20
+published: true
+
+tags:
+- westmidlands
+- ccuc
+
+
+wiki: Newman_University,_Birmingham
+website: www.newman.ac.uk
+image: newman.gif
+
+---

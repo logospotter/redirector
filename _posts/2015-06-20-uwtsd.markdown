@@ -1,0 +1,17 @@
+---
+layout: redirected
+title: "University of Wales Trinity Saint David"
+date: 2015-06-20
+published: true
+
+tags:
+- welsh
+- shield
+- ccuc
+
+wiki: University_of_Wales_Trinity_Saint_David
+website: www.uwtsd.ac.uk
+image: uwtsd.gif
+brand: http://www.trinitysaintdavid.ac.uk/en/media/uniweb/content/documents/corporate-communications/UWTSD-brandguidelines.pdf
+
+---

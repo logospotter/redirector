@@ -1,0 +1,17 @@
+---
+layout: redirected
+title: "Goldsmiths, University of London"
+date: 2015-06-20
+published: true
+
+tags:
+- london
+- gold
+- typographic
+
+wiki: Goldsmiths,_University_of_London
+website: www.gold.ac.uk
+image: gold.gif
+brand: http://www.gold.ac.uk/media/logo-guidelines-ext.pdf
+
+---

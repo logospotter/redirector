@@ -1,0 +1,16 @@
+---
+layout: redirected
+title: "Liverpool Hope University"
+date: 2015-06-20
+published: true
+
+tags:
+- northwest
+- red
+- ccuc
+
+wiki: Liverpool_Hope_University
+website: www.hope.ac.uk
+image: hope.gif
+
+---

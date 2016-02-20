@@ -1,0 +1,16 @@
+---
+layout: redirected
+title: "Guildhall School of Music and Drama"
+date: 2015-06-20
+published: true
+
+tags:
+- london
+- mono
+- typographic
+
+wiki: Guildhall_School_of_Music_and_Drama
+website: www.gsmd.ac.uk
+image: gsmd.gif
+
+---

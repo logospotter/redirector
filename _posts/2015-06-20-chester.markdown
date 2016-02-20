@@ -1,0 +1,16 @@
+---
+layout: redirected
+title: "University of Chester"
+date: 2015-06-20
+published: true
+
+tags:
+- northwest
+- shield
+- ccuc
+
+wiki: University_of_Chester
+website: www.chester.ac.uk
+image: chester.gif
+
+---

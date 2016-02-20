@@ -1,0 +1,17 @@
+---
+layout: redirected
+title: "Leeds College of Art"
+date: 2015-06-20
+published: true
+
+tags:
+- yorks
+- yorkshumber
+- abstract
+
+
+wiki: Leeds_College_of_Art
+website: www.leeds-art.ac.uk
+image: leeds-art.gif
+
+---

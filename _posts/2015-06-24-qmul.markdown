@@ -1,0 +1,16 @@
+---
+layout: redirected
+title: "Queen Mary Universty, London"
+date: 2015-06-20
+published: true
+
+tags:
+- london
+- russell-group
+- blue
+
+wiki: Queen_Mary_University_of_London
+website: www.qmul.ac.uk
+image: qmul.gif
+
+---

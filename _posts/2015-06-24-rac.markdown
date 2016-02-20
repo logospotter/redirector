@@ -1,0 +1,15 @@
+---
+layout: redirected
+title: "Royal Agricultural University"
+date: 2015-06-20
+published: true
+
+tags:
+- southwest
+- crest
+
+wiki: Royal_Agricultural_University
+website: www.rac.ac.uk
+image: rac.gif
+
+---

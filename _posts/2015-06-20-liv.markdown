@@ -1,0 +1,20 @@
+---
+layout: redirected
+title: "University of Liverpool"
+date: 2015-06-20
+published: true
+
+tags:
+- russell-group
+- northwest
+- shield
+- blue
+- gold
+- animal
+
+wiki: University_of_Liverpool
+website: www.liv.ac.uk
+image: liv.gif
+
+
+---

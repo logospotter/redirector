@@ -1,0 +1,16 @@
+---
+layout: redirected
+title: "Queen's University Belfast"
+date: 2015-06-20
+published: true
+
+tags:
+- irish
+- russell-group
+- red
+
+wiki: Queen's_University_Belfast
+website: www.qub.ac.uk
+image: qub.gif
+
+---

@@ -1,0 +1,16 @@
+---
+layout: redirected
+title: "Royal Academy of Music"
+date: 2015-06-20
+published: true
+
+tags:
+- london
+- crest
+- mono
+
+wiki: Royal_Academy_of_Music
+website: www.ram.ac.uk
+image: ram.gif
+
+---

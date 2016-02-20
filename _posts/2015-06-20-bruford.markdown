@@ -1,0 +1,15 @@
+---
+layout: redirected
+title: "Rose Bruford College"
+date: 2015-06-20
+published: true
+
+tags:
+- london
+- mono
+
+wiki: Rose_Bruford_College
+website: www.Rose Bruford College.ac.uk
+image: bruford.gif
+
+---
